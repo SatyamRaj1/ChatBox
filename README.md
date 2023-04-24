@@ -2,5 +2,12 @@
 - Socket Programming
 - TCP Client Server
 - C Language
+- Contains 
+  -  standard Chatbox
+    -  send and recieve messages
+  -  query based calculator 
+    -  send calculation queries to server
+  -  File Transfer Client Server
+    -  send and recieve files from client to server
 -	to run server use `filename port_number` where port number should be greater that 1024 
 -	to run client use `filename host_ipaddress port_number` if want to text to same machine using two different window use loopback ip address 127.0.0.1
